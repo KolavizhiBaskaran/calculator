@@ -24,6 +24,7 @@ Its useful for simple calculations.
 * javascript
 
 ## Screenshot
+<img src="https://github.com/KolavizhiBaskaran/Personal/blob/main/Calculator.png "/>
 
 
 
